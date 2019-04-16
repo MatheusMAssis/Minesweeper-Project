@@ -1,6 +1,6 @@
 # Minesweeper-Project
 
-Built in Processing.py, this project is the recriation of a famous computer game called Minesweeper.
+Built in Processing.py, this project is a recreation of a famous computer game called Minesweeper. 
 
 ### Prerequisites
 

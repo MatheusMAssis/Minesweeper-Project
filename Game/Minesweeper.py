@@ -88,7 +88,7 @@ def draw():
                     cell.r, cell.g, cell.b = 255, 0, 0
                     cell.show(cell.r, cell.g, cell.b)
                 
-                    #--- trying to show all mines on the field after losing (obviously it's not working) ---#
+                    #--- trying to show all mines on the field after losing (NOT WORKING) ---#
                     
                     #for mine in mines:
                     #    mine.visited = True
@@ -100,7 +100,7 @@ def draw():
                     print('TIME: {}s'.format(int(t.time() - t0)))
                     noLoop()
                     
-                #--- if you click in a blank cell, opening all neighbors ---#
+                #--- clicking on a blank cell and opening all neighbors ---#
                     
                 if not cell.mine_neighbors and not cell.is_mine:
                     blank_cells = cell.neighbors

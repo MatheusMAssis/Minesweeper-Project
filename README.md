@@ -9,6 +9,10 @@ Built in Processing.py, this project is the recriation of a famous computer game
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+```
+.gif on how to install python mode
+```
+
 ### Installing
 
 Acessing this [link](https://uploadfiles.io/bjku7f2g), you can download all processing files necessary to run the game.

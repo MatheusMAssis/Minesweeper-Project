@@ -28,7 +28,7 @@ Acessing this [link](https://uploadfiles.io/bjku7f2g), you can download all proc
 
 ## Authors
 
-* **Matheus Assis**
+* **Matheus Assis** - [GitHub](https://github.com/MatheusMAssis)
 
 ## License
 

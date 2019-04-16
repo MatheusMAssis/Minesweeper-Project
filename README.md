@@ -4,8 +4,8 @@ Built in Processing.py, this project is a recreation of a famous computer game c
 
 ### Prerequisites
 
-* [Processing](https://processing.org/download/) - on your software of choice
-* Install Python Mode inside Processing
+* [Processing](https://processing.org/download/) - on your software of choice;
+* Install Python Mode inside Processing.
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
@@ -23,8 +23,8 @@ Acessing this [link](https://uploadfiles.io/bjku7f2g), you can download all proc
 
 ## Built With
 
-* [Processing](https://processing.org/) - The IDE used
-* [Python](https://www.python.org/) - Programming Language used
+* [Processing](https://processing.org/) - The IDE used;
+* [Python](https://www.python.org/) - Programming Language used.
 
 ## Authors
 
@@ -32,5 +32,5 @@ Acessing this [link](https://uploadfiles.io/bjku7f2g), you can download all proc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 

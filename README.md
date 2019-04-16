@@ -7,9 +7,7 @@ Built in Processing.py, this project is the recriation of a famous computer game
 * [Processing](https://processing.org/download/) - on your software of choice
 * Install Python Mode inside Processing
 
-```
-.gif on how to download py processing inside it
-```
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### Installing
 

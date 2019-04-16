@@ -6,10 +6,8 @@ Built in Processing.py, this project is the recriation of a famous computer game
 
 Must have:
 
-```
 [Processing Download](https://processing.org/download/)
  on your software of choice
-```
 
 ### Installing
 

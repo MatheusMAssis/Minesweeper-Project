@@ -4,26 +4,20 @@ Built in Processing.py, this project is the recriation of a famous computer game
 
 ### Prerequisites
 
-Must have:
+* [Processing](https://processing.org/download/) - on your software of choice
+* Install Python Mode inside Processing
 
-[Processing Download](https://processing.org/download/)
- on your software of choice
+```
+.gif on how to download py processing inside it
+```
 
 ### Installing
 
-Say what the step will be
+Acessing this [link](https://uploadfiles.io/bjku7f2g), you can download all processing files necessary to run the game.
 
 ```
-Give the example
+.gif on how to download
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
 

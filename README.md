@@ -19,7 +19,7 @@ A Processing.py project that I started with the intention of recreating the famo
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## ...
+## Thanks
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 

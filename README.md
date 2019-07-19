@@ -2,24 +2,9 @@
 
 Built in Processing.py, this project is a recreation of a famous computer game called Minesweeper. 
 
-### Prerequisites
+## About
 
-* [Processing](https://processing.org/download/) - on your software of choice;
-* Install Python Mode inside Processing.
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-```
-.gif on how to install python mode
-```
-
-### Installing
-
-Acessing this [link](https://uploadfiles.io/bjku7f2g), you can download all processing files necessary to run the game.
-
-```
-.gif on how to download
-```
+A Processing.py project that I started with the intention of recreating the famous game Minesweeper. As I used to play it a lot when I was younger, I thought it would be cool to remember about those times (and it was). The game has *three levels of difficulty*, all of them are based on the real levels of Minesweeper (varying the number of bombs and tiles).  
 
 ## Built With
 
@@ -34,3 +19,8 @@ Acessing this [link](https://uploadfiles.io/bjku7f2g), you can download all proc
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+## ...
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+Thanks for visiting my GitHub! <3
